@@ -7,6 +7,6 @@ namespace Clean.ApplicationCore.ViewModels
 {
     public class CourseViewModel
     {
-        public IEnumerable<Course> Courses { get; set; }
+        public IEnumerable<Clean.Domain.Models.Course> Courses { get; set; }
     }
 }
