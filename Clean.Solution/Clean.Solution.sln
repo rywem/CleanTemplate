@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.ApplicationCore", "Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Infrastructure.IoC", "Clean.Infrastructure.IoC\Clean.Infrastructure.IoC.csproj", "{3CA8C468-FDCD-4459-920E-BFCC27B724D2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure.Bus", "Infrastructure.Bus", "{7BB52C45-ADE7-4780-B5C5-6D27487C2B9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{920BD415-0200-4B37-9431-E63B205D9231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
