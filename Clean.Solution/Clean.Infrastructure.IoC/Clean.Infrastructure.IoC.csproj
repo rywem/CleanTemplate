@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Clean.ApplicationCore\Clean.ApplicationCore.csproj" />
+    <ProjectReference Include="..\Clean.Infrastructure.Bus\Clean.Infrastructure.Bus.csproj" />
     <ProjectReference Include="..\Clean.Infrastructure.Data\Clean.Infrastructure.Data.csproj" />
   </ItemGroup>
 
